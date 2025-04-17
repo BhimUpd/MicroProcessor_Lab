@@ -1,0 +1,33 @@
+1. Write an assembly language program to add all the elements of a table, which are  between 50 and 150 only. Display the result as the decimal value.  
+
+2. A table of numbers is stored in memory. Write an assembly language program to  add numbers from the table, which are between 30 and 100. Display the result in  hex format.  
+
+3. Write an assembly language program to get text input and display it on the center  of a clear screen.  
+
+4. Write an assembly language program to accept string input and convert to upper  case if it has lower case letters. 
+
+5. Write an assembly language program to get input and display on location 10,20 on  the screen  
+
+6. Write an assembly language program to convert the text stored in memory to  upper case only if the characters are found in lower case. Display the converted  text in the screen.  
+
+7. Write an assembly language program to convert the text stored in the memory to  lower case if the characters are in upper case. Display the result text in the screen  
+
+8. Write a program to add the sequence 1+3-+-4+... up to 100 steps display the result  in hexadecimal format.  
+
+9. Write a program to add the sequence 1+3+4+... up to the desired steps entered by  the user and display the result in decimal format. Assume user enters numbers  from 1 to 9.  
+
+10. Write an assembly language program to display graphical ASCII characters from  32 to 127 on a defined window (5,10 and 20,70) with white on blue attribute.  
+
+11. You have an array of data in one table. Change each element to decimal ASCII  and store it in the next table. Display the final result in the clear screen.  
+
+12. Write an assembly language program to count the number of vowels in a string  entered by the user. Display the result in decimal format. 
+
+13. Write an assembly language program to convert the vowels to uppercase from a  string entered by the user.
+
+14. Write an assembly language program to get string input from the user convert it to  capital case display the attributed string at the center of the defined window (2,10  to 22,70).  
+
+15. Write an assembly language program to get string input from the user convert it to  lower case display the attributed string at the lower left comer of the defined  window (3,10 to 21,10).  
+
+16. Write an assembly language program that takes a string input from user and clear  the screen and move the string from right edge of the screen to left edge. The  movement should be noticeable.  
+
+ 17. Write an assembly language program to generate a multiplication table of any  number entered by the user. Display the table in the screen. 
